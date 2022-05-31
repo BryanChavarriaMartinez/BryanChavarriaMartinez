@@ -5,9 +5,11 @@
 
 👨🏼‍🎓 Skills:
 • Knowledge of Agile/Scrum methodology.
-• Programming knowledge in C#, C++, VB, Python, Bash.
-• Fullstack developer (ASP.NET - MVC - HTML, CSS, PHP - Laravel - TALL Stack)
-• Database Manager. (Azure, SQL Server, SSRS)
+• Programming knowledge in C#, C++, VB, Python, Bash, JavaScript.
+• Full Stack developer --> React with Hooks / MVC ASP.NET / Laravel (TALL Stack) - HTML, CSS, PHP, JavaScript, Node.js, Redux, GraphQL, Firebase.
+• Version control (DevOps, GIT).
+• Database Manager. (Azure, SQL Server, SSRS).
+• Advanced knowledge of PLEX ERP systems (IntelliPlex Dev).
 • Basics of Data mining algorithms.
 • Basics of Blockchain.
 • Knowledge of Linux OS (distros: Raspbian, Ubuntu, Manjaro)
